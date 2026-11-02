@@ -139,19 +139,4 @@ Once charging finishes or the user taps the card again to stop:
                                         |
                                         v
                                 Reset to Ready State
-## 🚀 Installation and Setup
-1. Clone or download this repository.
-2. Open the project sketch in Arduino IDE.
-3. Install required libraries (MFRC522, LiquidCrystal_I2C, etc.).
-4. Connect all hardware components according to the pin configuration table.
-5. Update your Wi-Fi credentials (WIFI_SSID, WIFI_PASSWORD) and cloud API endpoints in the code.
-6. Select ESP32 DevKit V1 and the correct COM port in Arduino IDE.
-7. Upload the program to the ESP32 board.
-8. Open the Serial Monitor at 115200 baud to view logs and diagnostic data.
 
-## 📂 Project Repository
-GitHub Repository:
-IoT EV Charging Station – View Source Code
-Clone the repository:
-```bash
-git clone [https://github.com/manojhmanu6-hub/IoT-EV-Charging-Station.git](https://github.com/manojhmanu6-hub/IoT-EV-Charging-Station.git)
